@@ -16,10 +16,11 @@ More smart deauth attck then normal
    ```
 5. Click on `OK`.
 6. Go to `Tools` → `Board` → `Board Manager`.
-7. Search `Realtek Ameba Boards (32-Bits ARM Cortex-M33@200MHz)` by `Realtek`.
-8. Install it.
-9. Restart the Arduino IDE.
-10. Done!
+7. Search `Realtek Ameba Boards (32-Bits ARM Cortex-M33@200MHz)` by `Realtek`. <br>
+!!! CODE WORK WITH 3.1.7 pack, other versions may not be work !!!
+9. Install it.
+10. Restart the Arduino IDE.
+11. Done!
 
 # Install
 1. Download or Clone the Repository.

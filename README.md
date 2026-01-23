@@ -1,5 +1,5 @@
 # BW16-SmartDeauther
-Deauth networks using BW16 (RTL8720DN). Deauth+Dissoc+CTS
+Deauth networks using BW16 (RTL8720DN). Deauth+Dissoc+CTS <br>
 More smart deauth attck then normal
 
 # Hardware Requirements

